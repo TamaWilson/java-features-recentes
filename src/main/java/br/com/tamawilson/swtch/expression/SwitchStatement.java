@@ -30,9 +30,9 @@ public class SwitchStatement {
 
         System.out.println("Switch Atribuindo Valor: " + mensagem);
 
-        //Swtich como retorno de um método
-        //String mensagemRetorno = avaliarNota(8);
-        //System.out.println("Switch Como Retorno: " + mensagem);
+//        Swtich como retorno de um método
+        String mensagemRetorno = avaliarNota(8);
+        System.out.println("Switch Como Retorno: " + mensagem);
 
     }
 
