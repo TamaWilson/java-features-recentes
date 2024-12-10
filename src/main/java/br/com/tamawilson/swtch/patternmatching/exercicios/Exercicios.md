@@ -7,10 +7,12 @@ para cada tipo de Animal
 
 ## Exercício 2
 Faça um exemplo de Case Dominance.
-Caso o exemplo impessa a compilação dos outros exercícios, deixe comentado na linha que causa o erro.
 Será avaliado se seu código realmente apresenta um erro relacionado com Case Dominance. 
 
 ## Exercício 3
 Faça um exemplo de Guarded Pattern. 
 Sugestão: Você pode usar a classe Object e no mesmo swtich/case checar se o objeto é `Integer e maior que 100` ou `String e não está vazio`, 
-tente criar novas cláusula a partir dessas sugestões.   
+tente criar novas cláusula a partir dessas sugestões. 
+
+## Exercício 4 
+Crie uma inteface usando selaed, implemente ela em 3 classes diferentes e faça um switch case usando o conceito de pattern matching e exhaustiveness.
